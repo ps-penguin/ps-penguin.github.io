@@ -6,7 +6,7 @@ categories: markdown
 tags: [markdown]
 ---
 
-Markdownd이란?  
+**Markdownd이란?**  
 마크다운(markdown)은 일반 텍스트 기반의 경량 마크업 언어로 일반 마크업 언어보다 문법이 쉽고 간단하다.  HTML과 RTF등 서식 문서로 쉽게 변환되기 때문에 README파일이나 온라인 게시물 등으로 많이 사용된다
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
