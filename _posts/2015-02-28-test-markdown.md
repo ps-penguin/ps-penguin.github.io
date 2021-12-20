@@ -13,7 +13,8 @@ tags: [markdown]
 >글을 적을 때는 별다른 조치 없이 그냥 글을 적으면 된다.
 2. italics & bold  
 >글을 적다가 강조해야 할 부분이 등장하면 이 방법을 사용해보면 된다.  
-italics
+italics - 손글씨를 말한다. 강조하고 싶은 글 양 옆에 언더바 '_'를 적어주면 적용된다.  
+markdown is good! -> _markdown_ is good!
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
